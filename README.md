@@ -16,6 +16,6 @@ The user could also:
 
 The following is a report of the whole program : [paint_Final.pdf](https://github.com/adhammohamed1/YAMY-painter/files/7531955/paint_Final.pdf)
 
-![ClassDiagram](https://user-images.githubusercontent.com/90573502/141643009-1faef175-9399-4a91-9bb1-c7501e8cb748.jpeg)
-
 ![UseCase](https://user-images.githubusercontent.com/90573502/141643003-a023485d-820f-42d5-a8ba-2b8ce612dcb7.jpeg)
+
+![ClassDiagram](https://user-images.githubusercontent.com/90573502/141643009-1faef175-9399-4a91-9bb1-c7501e8cb748.jpeg)

@@ -22,7 +22,7 @@ The following is a report of the whole program : [paint_Final.pdf](https://githu
 
 ![Screenshot (122)](https://user-images.githubusercontent.com/90573502/142770986-4977efc4-18af-4c25-a98e-7b26ca6432f6.png)
 
-The following screenshots where taken using the in-app screenshot feature:
+The following screenshot was taken using the in-app screenshot feature:
 
 ![screenshot](https://user-images.githubusercontent.com/90573502/142770942-5c15741f-fd36-46ff-9873-8c7f9cd71db4.jpg)
 

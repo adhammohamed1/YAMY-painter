@@ -45,37 +45,37 @@ To run the program, you have to run the class named "FinalProjectPaint_V1" as yo
 
 ## Design Patterns
 **1. Factory Design Pattern**
-We have used Factory design patter in order to create new Objects
-without need of construction and to avoid coupling and dependency
-between Classes. So we constructed new instances of classes through
-this factory and returning it in needed methods or classes
+We have used Factory design pattern to create new objects
+without the need of constructors and to avoid coupling and dependency
+between classes. So we constructed new instances of classes through
+this factory and returned in needed methods or classes.
 
 **2. Prototype Design Pattern**
 We have used Prototype design pattern by implementing “Cloneable”
 interface and implementing “clone()” method in each and every Shape
-class and also Cloning instances of “Point” class. It helped us making
-copies of our Objects using values not references that helped us in
-copy method.
+class and also Cloning instances of “Point” class. It helped us make
+copies of our Objects using values instead of references which helped
+in the copy method.
 
 **3. Singleton Design Pattern**
-We have used Singleton design pattern to assure the creation of only
-one object of “ScreenShotter” class which has main aim to take
-screenshot of the painting board and it is the only instance that is
+We have used Singleton design pattern to ensure the creation of only
+one instance of “ScreenShotter” class whose main aim is to
+screenshot the paint board and it is the only instance that is
 allowed to do such task.
 
 **4. Façade Design Pattern**
-We have used façade design pattern as it offers a simple interface to
+We have used the Façade design pattern as it offers a simple interface to
 more complex underlying objects. So we could use draw methods
-using objects of “ShapeMakerFacade” class and not by accessing the
-shapes classes itself.
+using objects of “ShapeMakerFacade” class instead of accessing the
+shapes classes themselves.
 
 **5. Iterator Design Pattern**
 Iterator design Pattern facilitates looping across the array list of
 Geometric shapes needed to be drawn by only using 2 basic methods
 which are : “hasNext()” and “next()” avoiding looping with varying
-conditions.
+conditions which helped enhance the readability of the code.
 
-**6. Iterator Design Pattern**
+**6. Observer Design Pattern**
 Observer design pattern helped us with automatic
 screenshotting(update method) while drawing (auto-documentation) as
 it takes screenshot each and every time we release the mouse by only
